@@ -18,7 +18,7 @@ const Hero = () => {
       </div>
       <div className=' flex-1 flex items-center justify-center md:justify-end'>
       <div className='rounded-full bg-gr flex items-center justify-center w-1/2 md:w-[70%]'>
-        <img className=' object-contain' src= {robot} alt="" />
+        <img className=' ' src= {robot} alt="" />
       </div>
       </div>
     </section>
